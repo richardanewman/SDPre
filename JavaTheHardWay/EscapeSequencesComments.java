@@ -16,3 +16,4 @@ public class EscapeSequencesComments {
     // and comments. :)
   }
 }
+//Does not compile when you put a block comment in middle of println 
