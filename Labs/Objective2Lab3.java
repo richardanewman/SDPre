@@ -6,6 +6,7 @@ public class Objective2Lab3 {
     food3 = "Bananas";
 
     System.out.println("My Favorite Foods Are:\n1. " + food1 + "\n2. " + food2 + "\n3. " + food3);
+
     
   }
 }
