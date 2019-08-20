@@ -62,11 +62,13 @@ the other if statements to exit.
 2. Add one more if statement comparing their age to 65. If their age is greater
 than or equal to 65, say “You are old enough to retire!”.
 
-lines 28-29
+A: lines 51-52
 
 3. For each if statement, add another if statement that says the opposite.
 For example, if their age is greater than or equal to 13, say “old enough to create a
 Facebook account” When you are done, your program should show six messages
 every time no matter what age you enter.
+
+A: Added new if statements
 
 */
